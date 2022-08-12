@@ -248,6 +248,10 @@ origin  https://github.com/Elena/EveningRepository.git (push)
 
 
 ### Произвести Fork публичного репозитория
+Данный вопрос разберем на примере публичного репозитория **EveningRepository** в личном кабинете **nickname PavelGeekBrains** переходим по ссылке https://github.com/PavelGeekBrains/EveningRepository
+
+Жмем на кнопку **Fork** в правой верхней стороне, попадаем в раздел **Create a new fork** 
+В поле **Repository name** оставляем тоже имя или можем его немного изменить, галочку с **Copy the master branch only** не снимаем оставляем так как нам и нужна только основная ветка **master**, после чего жмем на зеленую кнопку **Create Fork**, после чего данный репозиторий скопируется в наш личный кабинет в наши репозитории на **GitHub** и мы сразу попадем в окно где он будет открыт в нашем кабинете на **GitHub**. После чего ищем кнопу **Code** нажимаем на нее и копируем ссылку https://github.com/Elena/EveningRepository.git
 
 ### Добавить репозиторий после Fork на локальную машину внести изменения
 
